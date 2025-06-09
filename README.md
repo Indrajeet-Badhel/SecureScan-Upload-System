@@ -24,7 +24,11 @@ This system integrates frontend simplicity with backend robustness, creating a s
 - ClamAV (Open-source antivirus for real-time scanning)
 
 **Operating System:**
-- Linux-based system (Tested on Ubuntu)
+- Linux-based system (Tested on Ubuntu via WSL)
+
+**Development Environment:**
+- Windows Subsystem for Linux (WSL)  
+- Apache 2.4 (via XAMPP or manual installation)
 
 ---
 
@@ -46,5 +50,4 @@ The web interface is intuitive and allows easy file uploads with immediate feedb
 Frontend, backend, and scanning logic are separated into different modules for easier maintenance and scalability.
 
 ---
-
 
